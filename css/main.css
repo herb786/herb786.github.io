@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+@import url('https://fonts.googleapis.com/css?family=Dr+Sugiyama');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Londrina+Shadow');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=Voltaire');
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Fauna+One|Gabriela|IM+Fell+DW+Pica|IM+Fell+DW+Pica+SC|IM+Fell+English+SC|Kotta+One|Kreon|Kurale|Laila');
+
+body{
+    position: absolute;
+    margin: auto;
+    color: rgb(20,40,50);
+    width:100%;
+    height:100%;
+    font-weight: 400;
+    /*background-color: rgba(227,215,193,1);*/
+    background: #8f7d67 url("../img/bckg.jpg") repeat center top;
+}
+
+.app {
+	margin: auto;
+	max-width: 1920px;
+}
+
+.header{
+    color: white;
+    padding: 1em 4em;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+    background: url("../img/header.png") no-repeat center top;
+    /*background-color: #d2beaa;*/
+}
+
+.header .title{
+    font-size: 4em;
+	padding: 0 1em;
+	display: inline-block;
+    /*font-family: 'Monoton', cursive;*/
+    /*font-family: 'Londrina Shadow', cursive;*/
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.header .owner{
+    font-size: 2em;
+    text-align: right;
+    /*font-family: 'Marck Script', cursive;*/
+    font-family: 'Dr Sugiyama', cursive;
+}
+
+.footer{
+    position:relative;
+    bottom: 0;
+    width:100%;
+    font-size: 1em;
+    color: rgb(20,60,50);
+    margin: 10px 0 0 0;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 500;
+    background-color: rgba(0, 21, 4, 0.8);
+}
+
+.box-footer {
+    padding: 1.5em 150px;
+    font-size: 1.2em;
+    color: white;
+    width: 100%;
+    font-family: 'Voltaire', sans-serif;
+}
+
+.left-footer {
+    width: 25%;
+    left: 0%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.right-footer {
+    width: 60%;
+    left: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.img-logo-footer {
+    height: 4em;
+    padding: 0px 6px;
+}
+
+.about {
+	font-size: 1.4em;
+	margin: 1em 0;
+	padding: 1em 2em;
+	color: aqua;
+	background-color: rgba(11, 39, 16, 0.8);
+    font-family: 'Voltaire', sans-serif;
+	border: 2px solid #0ac200;
+	border-radius: 5px;
+}
+.about table {
+	width: 100%;
+}
+.about img {
+	max-height: 80px;
+	margin: 20px;
+}
+
+.app-carousel {
+	font-size: 1.4em;
+	padding: 0 2em 2em 2em;
+	color: aqua;
+	background-color: rgba(18, 35, 9, 0.8);
+    font-family: 'Voltaire', sans-serif;
+	border: 2px solid #0ac200;
+	border-radius: 5px;
+}
+
+.app-carousel h2 {
+	color: #ffc73b;
+}
+
+.app-description {
+	padding: 0 2em;
+	vertical-align: top;
+}
+
+.app-logo {
+	vertical-align: top;
+}
+.app-logo img {
+	max-height: 120px;
+	margin: 0 10px;
+}
+
+.app-badge {
+	vertical-align: bottom;
+}
+
+.app-badge img {
+	height: 50px;
+}
+
+.resources {
+	font-size: 1.4em;
+	margin: 1em 0;
+	padding: 1em 2em;
+	color: aqua;
+	background-color: rgba(9, 33, 13, 0.8);
+    font-family: 'Voltaire', sans-serif;
+	border: 2px solid #0ac200;
+	border-radius: 5px;
+}
+
+.resources a {
+	color: white;
+}
+
+
+
+.toolbar{
+    width:100%;
+    display: table;
+    font-size: 1em;
+    /*font-family: 'Fira Sans', sans-serif;*/
+    background-color: rgba(10,0,50,0.8);
+    font-family: 'Voltaire', sans-serif;
+}
+
+.toolbar .item{
+    width: 16.5%;
+    padding:0.4em;
+    text-align: center;
+    border: 1px solid rgba(0,60,60,0);
+    /*background-color: rgba(79,165,210,1);*/
+    display: table-cell;
+}
+
+.toolbar .item:hover{
+    /*color: rgb(20,40,50);*/
+    color: #ccc;
+    background-color: rgba(0,0,150,0.5);
+    border: 0px solid #fff;
+}
+
+.toolbar .item a:link{
+    /*color: rgb(20,40,50);*/
+    color: #ccc;
+    text-decoration: none;
+}
+
+.toolbar .item a:visited{
+    /*color: rgb(20,40,50);*/
+    color: #ccc;
+    text-decoration: none;
+}
+
+.toolbar .item a:hover{
+    /*color: rgb(20,40,50);*/
+    color: #ccc;
+    text-decoration: none;
+}
+
+
+
+
+select {
+    background-color: rgba(0,0,150,0.5);
+    font-size: 1.2em;
+    color: #ccc;
+    font-family: 'Voltaire', sans-serif;
+    background-color: rgba(0,0,150,0.5);
+    border: 0px solid #fff;
+}

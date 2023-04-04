@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="In this site you will find a short description of some apps I have published in the past years in different stores.">
+    <meta name="robots" content="max-snippet:20">
+    <meta name="robots" content="max-image-preview:standard">
+    <meta name="googlebot" content="notranslate">
+    <!-- Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Fugaz+One' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700">
+    <meta property="og:title" content="Herbert Caller" />
+    <meta property="og:url" content="https://herbertcaller.github.io" />
+    <meta property="og:type" content="article" />
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <!--script src="https://unpkg.com/vue@3/dist/vue.global.js"></script-->
+    <script src="vue.global.js"></script>
+    <title>Herbert Caller's Site</title>
+</head>
+
+<body>
+    <div id="app" class="app">
+        <!--navbar-comp></navbar-comp-->
+        <header-comp></header-comp>
+        <intro-comp></intro-comp>
+        <app-comp></app-comp>
+        <you-might-like-comp></you-might-like-comp>
+        <footer-comp></footer-comp>
+    </div>
+</body>
+
+<script type="module">
+    const { createApp } = Vue
+    import FooterComp from './FooterComp.js'
+    import IntroComp from './IntroComp.js'
+    import HeaderComp from './HeaderComp.js'
+    import NavbarComp from './NavbarComp.js'
+    import AppComp from './AppComp.js'
+    import YouMightLikeComp from './YouMightLikeComp.js'
+
+    createApp({
+        components: {
+            FooterComp,
+            HeaderComp,
+            NavbarComp,
+            AppComp,
+            IntroComp,
+            YouMightLikeComp
+        },
+        data() {
+            return {
+                message: 'Hello HCG!'
+            }
+        }
+    }).mount('#app')
+</script>
+
+
+</html>
