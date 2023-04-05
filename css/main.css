@@ -137,6 +137,7 @@ body{
 
 .app-badge img {
 	height: 50px;
+    margin-left: 10px;
 }
 
 .resources {
