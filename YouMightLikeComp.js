@@ -4,8 +4,7 @@ export default {
     <h3>You may also like</h3>
     <ul>
     <li><a  target="_blank" href="https://spectrum.ieee.org/the-case-against-quantum-computing">The Case Against Quantum Computing</a></li>
-    <li><a  target="_blank" href="https://blog.scottlogic.com/2023/03/13/beyond-the-hype-quantum-computing-part-one.html">
-            Beyond the Hype: Quantum Computing - hype and not hype simultaneously?</a></li>
+    <li><a  target="_blank" href="https://nap.nationalacademies.org/catalog/25196/quantum-computing-progress-and-prospects">Quantum Computing - Progress and Prospects</a></li>
     <li><a  target="_blank" href="https://rdm.mpdl.mpg.de/before-research/data-quality/">Data Quality</a></li>
     <li><a  target="_blank" href="https://www.ibm.com/topics/overfitting">What is overfitting?</a></li>
     <li><a  target="_blank" href="https://thealgorithmicbridge.substack.com/p/why-ai-is-doomed-without-neuroscience">Why AI Is Doomed Without Neuroscience</a></li>
