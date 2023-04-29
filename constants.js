@@ -24,6 +24,22 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
+        "name": "Score Keeper",
+        "description": "Simulate your scores and keep your progress.",
+        "play": "https://play.google.com/store/apps/details?id=com.hacaller.peruexchange&hl=es",
+        "itunes": "https://itunes.apple.com/us/app/andes-xchange/id1458186544",
+        "icono": "img/libreta.png",
+        "fondo": "common-bckg.png"
+    },
+    {
+        "name": "aNetMeter",
+        "description": "Test your internet speed. ",
+        "play": "https://play.google.com/store/apps/details?id=com.hacaller.a_netmeter&hl=es",
+        "itunes": "",
+        "icono": "img/anetmeter.webp",
+        "fondo": "common-bckg.png"
+    },
+    {
         "name": "Citémosles!",
         "description": "Share your quotes on your preferred social network like Twitter or Facebook in Spanish.",
         "play": "",

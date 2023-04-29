@@ -13,6 +13,7 @@ export default {
     <li><a  target="_blank" href="https://www.techyourchance.com/kotlin-vs-java-whole-story/">Java vs Kotlin: Quantitative Analysis</a></li>
     <li><a  target="_blank" href="http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html">The Clean Code Blog</a></li>
     <li><a  target="_blank" href="http://www.slackware.com/">The Slackware Linux Project </a></li>
+    <li><a  target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML: HyperText Markup Language</a></li>
     <li><a  target="_blank" href="https://docs.oracle.com/javase/tutorial/">The Java Tutorials</a></li>
     <li><a  target="_blank" href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial¶</a></li>
     <li><a  target="_blank" href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language">The Swift Programming Language</a></li>
