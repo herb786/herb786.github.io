@@ -8,8 +8,8 @@ export const MY_APPS = [
         "fondo": "arxiv-bckg.png"
     },
     {
-        "name": "Fibromorse",
-        "description": "Provides common prosigns used in telegraphy. Provide an alphabet with morse code and respective sounds. Customize you app theme colour. Learn about the pioneers and inventors of the telegraph. A simple AR activity to show an old classic telegraph.",
+        "name": "Telegraph AR",
+        "description": "It provides common prosigns used in telegraphy. It also provides an alphabet with morse code and respective sounds. Customize you app theme colour. Learn about the pioneers and inventors of the telegraph. A simple AR activity to show an old classic telegraph.",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.fibromorse",
         "itunes": "",
         "icono": "img/logo2.png",
@@ -40,7 +40,7 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
-        "name": "Citémosles!",
+        "name": "Cuaderno de Máximas",
         "description": "Share your quotes on your preferred social network like Twitter or Facebook in Spanish.",
         "play": "",
         "itunes": "https://itunes.apple.com/us/app/citémoslos/id1464253062",
@@ -48,7 +48,7 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
-        "name": "QuoteThem!",
+        "name": "Quotation Notebook",
         "description": "Share your quotes on your preferred social network like Twitter or Facebook.",
         "play": "",
         "itunes": "https://itunes.apple.com/us/app/quotethem/id1464253737",
@@ -56,15 +56,15 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
-        "name": "Hangman Ninja",
-        "description": "Rescue the accused of his unfortunate fate with your knowledge. Do not let the ninja be near the gallows and perform the execution. You can choose different topics: Geography, Painters, Writers, Animals, Sports, Flowers, Trees, Minerals, Chemistry, Actors. Three levels of difficulty. You can play with 20, 30 or 40 words. At the moment only in spanish.",
+        "name": "Purgatory",
+        "description": "A classic hangman game with a new theme. You can choose different topics: Geography, Painters, Writers, Animals, Sports, Flowers, Trees, Minerals, Chemistry, Actors. Three levels of difficulty. You can play with 20, 30 or 40 words.",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.theninjaexecutioner",
         "itunes": "https://itunes.apple.com/us/app/hangman-ninja/id1449387511?ls=1&mt=8",
         "icono": "img/hangman.png",
         "fondo": "common-bckg.png"
     },
     {
-        "name": "Alien Sudoku",
+        "name": "Sudoku51",
         "description": "A classical sudoku game with new levels.",
         "play": "",
         "itunes": "https://itunes.apple.com/us/app/sudoku-alien/id1450760182?ls=1&mt=8",
