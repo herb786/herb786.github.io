@@ -16,7 +16,7 @@ export default {
     `,
     methods: {
         showCarousel() {
-            var appSelected = MY_APPS[this.count % 7];
+            var appSelected = MY_APPS[this.count % 9];
             console.log(this.myAppName);
             this.myAppName = appSelected.name;
             this.myLogo = appSelected.icono;

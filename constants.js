@@ -41,7 +41,7 @@ export const MY_APPS = [
     },
     {
         "name": "Cuaderno de Máximas",
-        "description": "Share your quotes on your preferred social network like Twitter or Facebook in Spanish.",
+        "description": "Share popular quotes on your preferred social network like Twitter or Facebook in Spanish.",
         "play": "",
         "itunes": "https://itunes.apple.com/us/app/citémoslos/id1464253062",
         "icono": "img/citemosles.png",
@@ -49,7 +49,7 @@ export const MY_APPS = [
     },
     {
         "name": "Quotation Notebook",
-        "description": "Share your quotes on your preferred social network like Twitter or Facebook.",
+        "description": "Share popular quotes on your preferred social network like Twitter or Facebook.",
         "play": "",
         "itunes": "https://itunes.apple.com/us/app/quotethem/id1464253737",
         "icono": "img/quotethem.png",
