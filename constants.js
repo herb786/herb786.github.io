@@ -70,5 +70,21 @@ export const MY_APPS = [
         "itunes": "https://itunes.apple.com/us/app/sudoku-alien/id1450760182?ls=1&mt=8",
         "icono": "img/sudoku.png",
         "fondo": "common-bckg.png"
+    },
+    {
+        "name": "Caldaria",
+        "description": "A simple calculator to convert temperatures",
+        "play": "",
+        "itunes": "https://apps.apple.com/us/app/caldaria/id6450969427",
+        "icono": "img/caldaria.png",
+        "fondo": "common-bckg.png"
+    },
+    {
+        "name": "Furlong CGS",
+        "description": "A calculator to convert length, surface and volume units. Also included a feet board calculator.",
+        "play": "",
+        "itunes": "https://apps.apple.com/us/app/furlong-cgs/id6456222314",
+        "icono": "img/furlong.png",
+        "fondo": "common-bckg.png"
     }
 ]
