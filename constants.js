@@ -1,5 +1,6 @@
 export const MY_APPS = [
     {
+        "id": 1,
         "name": "ArxivLens",
         "description": "ArXivLens has multiple features to look for preprints in ArXiv. The app includes most of the subjects and categories you find in ArXiv. You have a search history to reuse your old searches and find new results. The app opens preprints in pdf format using your installed external applications. The app lets you mail your search results to your colleagues or friends.",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.arxivlens",
@@ -8,6 +9,7 @@ export const MY_APPS = [
         "fondo": "arxiv-bckg.png"
     },
     {
+        "id": 2,
         "name": "Telegraph AR",
         "description": "It provides common prosigns used in telegraphy. It also provides an alphabet with morse code and respective sounds. Customize you app theme colour. Learn about the pioneers and inventors of the telegraph. A simple AR activity to show an old classic telegraph.",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.fibromorse",
@@ -16,6 +18,7 @@ export const MY_APPS = [
         "fondo": "morse-bckg.png"
     },
     {
+        "id": 3,
         "name": "Andes Xchange",
         "description": "Find daily quotes for popular currencies and cryptocurrencies.",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.peruexchange&hl=es",
@@ -24,6 +27,7 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
+        "id": 4,
         "name": "Score Keeper",
         "description": "Simulate your scores and keep your progress.",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.peruexchange&hl=es",
@@ -32,6 +36,7 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
+        "id": 5,
         "name": "aNetMeter",
         "description": "Test your internet speed. ",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.a_netmeter&hl=es",
@@ -40,6 +45,7 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
+        "id": 6,
         "name": "Cuaderno de Máximas",
         "description": "Share popular quotes on your preferred social network like Twitter or Facebook in Spanish.",
         "play": "",
@@ -48,6 +54,7 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
+        "id": 7,
         "name": "Quotation Notebook",
         "description": "Share popular quotes on your preferred social network like Twitter or Facebook.",
         "play": "",
@@ -56,6 +63,7 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
+        "id": 8,
         "name": "Purgatory",
         "description": "A classic hangman game with a new theme. You can choose different topics: Geography, Painters, Writers, Animals, Sports, Flowers, Trees, Minerals, Chemistry, Actors. Three levels of difficulty. You can play with 20, 30 or 40 words.",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.theninjaexecutioner",
@@ -64,6 +72,7 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
+        "id": 9,
         "name": "Sudoku51",
         "description": "A classical sudoku game with new levels.",
         "play": "",
@@ -72,17 +81,19 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
+        "id": 10,
         "name": "Caldaria",
         "description": "A simple calculator to convert temperatures",
-        "play": "",
+        "play": "https://play.google.com/store/apps/details?id=hacaller.caldaria",
         "itunes": "https://apps.apple.com/us/app/caldaria/id6450969427",
         "icono": "img/caldaria.png",
         "fondo": "common-bckg.png"
     },
     {
+        "id": 11,
         "name": "Furlong CGS",
         "description": "A calculator to convert length, surface and volume units. Also included a feet board calculator.",
-        "play": "",
+        "play": "https://play.google.com/store/apps/details?id=hacaller.furlong",
         "itunes": "https://apps.apple.com/us/app/furlong-cgs/id6456222314",
         "icono": "img/furlong.png",
         "fondo": "common-bckg.png"

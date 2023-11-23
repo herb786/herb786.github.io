@@ -16,7 +16,7 @@ export default {
     `,
     methods: {
         showCarousel() {
-            var appSelected = MY_APPS[this.count % 9];
+            var appSelected = MY_APPS[this.count % 11];
             console.log(this.myAppName);
             this.myAppName = appSelected.name;
             this.myLogo = appSelected.icono;
@@ -32,11 +32,11 @@ export default {
     data() {
         return {
             count: 0,
-            myAppName: 'ArXivLens',
-            myLogo: 'img/logo.png',
-            myDescription: 'ArXivLens has multiple features to look for preprints in ArXiv. The app includes most of the subjects and categories you find in ArXiv. You have a search history to reuse your old searches and find new results. The app opens preprints in pdf format using your installed external applications. The app lets you mail your search results to your colleagues or friends.',
-            playStoreLink: 'https://play.google.com/store/apps/details?id=com.hacaller.arxivlens',
-            itunesLink: 'https://itunes.apple.com/us/app/arxivlens/id1352839831?mt=8',
+            myAppName: 'Furlong CGS',
+            myLogo: 'img/furlong.png',
+            myDescription: 'A calculator to convert length, surface and volume units. Also included a feet board calculator.',
+            playStoreLink: 'https://play.google.com/store/apps/details?id=hacaller.furlong',
+            itunesLink: 'https://apps.apple.com/us/app/furlong-cgs/id6456222314',
         }
     }
 }
