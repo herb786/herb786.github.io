@@ -4,14 +4,16 @@ export default {
     template: `
     <div class="app-carousel" id="app-carousel">
         <h2 ref="myAppName">{{myAppName}}</h2>
-        <table>
-        <tr>
-        <td class="app-logo"><img :src="myLogo" class="app-logo" ref="myLogo"/></td>
-        <td class="app-description" ref="myDescription">{{ myDescription }}</td>
-        <td class="app-badge"><a :href="playStoreLink" ref="playStoreLink"><img src="img/google-play-badge.png"/></a>
-        <a :href="itunesLink" ref="itunesLink"><img src="img/app-store-badge.png"/></a></td>
-        </tr>
-        </table>
+        <div class="app-description-box">
+            <div class="app-logo">
+                <img :src="myLogo" class="app-logo" ref="myLogo"/>
+            </div>
+            <div class="app-description" ref="myDescription">
+                <p>{{ myDescription }}</p>
+                <a :href="playStoreLink" ref="playStoreLink"><img src="img/google-play-badge.png"/></a>
+                <a :href="itunesLink" ref="itunesLink"><img src="img/app-store-badge.png"/></a>
+            </div>
+        </div>
     </div>
     `,
     methods: {

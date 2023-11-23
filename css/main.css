@@ -24,7 +24,7 @@ body{
 
 .header{
     color: white;
-    padding: 1em 4em;
+    padding: 10px 10px;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 400;
     background: url("../img/header.png") no-repeat center top;
@@ -32,8 +32,8 @@ body{
 }
 
 .header .title{
-    font-size: 4em;
-	padding: 0 1em;
+    font-size: 2em;
+	padding: 0 10px;
 	display: inline-block;
     /*font-family: 'Monoton', cursive;*/
     /*font-family: 'Londrina Shadow', cursive;*/
@@ -41,17 +41,29 @@ body{
 }
 
 .header .owner{
-    font-size: 2em;
+    font-size: 18px;
     text-align: right;
     /*font-family: 'Marck Script', cursive;*/
     font-family: 'Dr Sugiyama', cursive;
 }
 
+@media (min-width: 600px) {
+    .header {
+        padding: 1em 4em;
+    }
+    .header .title{ 
+        font-size: 4em;
+	    padding: 0 1em;
+    }
+    .header .owner{
+        font-size: 2em;
+    }
+}
+
 .footer{
     position:relative;
     bottom: 0;
-    width:100%;
-    font-size: 1em;
+    font-size: 20px;
     color: rgb(20,60,50);
     margin: 10px 0 0 0;
     font-family: 'Fira Sans', sans-serif;
@@ -60,36 +72,53 @@ body{
 }
 
 .box-footer {
-    padding: 1.5em 150px;
-    font-size: 1.2em;
+    padding: 16px 30px;
+    font-size: 20px;
     color: white;
-    width: 100%;
     font-family: 'Voltaire', sans-serif;
 }
 
 .left-footer {
-    width: 25%;
-    left: 0%;
+    position:relative;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    left: 20px;
     display: inline-block;
     vertical-align: top;
 }
 
 .right-footer {
-    width: 60%;
-    left: 30%;
+    position:relative;
+    left: 20px;
     display: inline-block;
     vertical-align: top;
 }
 
 .img-logo-footer {
-    height: 4em;
+    height: 40px;
     padding: 0px 6px;
 }
 
+@media (min-width: 600px) {
+    .footer{
+        font-size: 1em;
+        margin: 10px 0 0 0;
+    }
+    .left-footer {
+        margin-right: 120px;
+    }
+    .box-footer {
+        font-size: 1.2em;
+    }
+    .img-logo-footer {
+        height: 4em;
+    }
+}
+
 .about {
-	font-size: 1.4em;
-	margin: 1em 0;
-	padding: 1em 2em;
+	font-size: 20px;
+	margin: 10px 16px;
+	padding: 16px 20px;
 	color: aqua;
 	background-color: rgba(11, 39, 16, 0.8);
     font-family: 'Voltaire', sans-serif;
@@ -100,13 +129,26 @@ body{
 	width: 100%;
 }
 .about img {
-	max-height: 80px;
-	margin: 20px;
+	max-height: 60px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 600px) {
+    .about {
+        font-size: 1.4em;
+        margin: 1em 16px;
+        padding: 1em 2em;
+    }
+    .about img {
+        max-height: 80px;
+    }
 }
 
 .app-carousel {
-	font-size: 1.4em;
-	padding: 0 2em 2em 2em;
+	font-size: 20px;
+    padding: 16px;
+    margin: 10px 16px;
 	color: aqua;
 	background-color: rgba(18, 35, 9, 0.8);
     font-family: 'Voltaire', sans-serif;
@@ -116,34 +158,57 @@ body{
 
 .app-carousel h2 {
 	color: #ffc73b;
+    margin: 10px;
 }
 
 .app-description {
-	padding: 0 2em;
-	vertical-align: top;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .app-logo {
-	vertical-align: top;
+    display: inline-block;
 }
 .app-logo img {
-	max-height: 120px;
-	margin: 0 10px;
+	max-height: 100px;
+	margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
-.app-badge {
-	vertical-align: bottom;
+.app-description img {
+	height: 40px;
+    margin-right: 10px;
 }
 
-.app-badge img {
-	height: 50px;
-    margin-left: 10px;
+.app-description p {
+    margin-top: 0;
+}
+
+@media (min-width: 600px) {
+    .app-carousel {
+        font-size: 1.4em;
+        padding: 20px;
+        margin: 1em 16px;
+    }
+    .app-description {
+        max-width: 80%;
+    }
+    .app-logo img {
+        max-height: 140px;
+    }
+    .app-description img {
+        height: 60px;
+    }
 }
 
 .resources {
-	font-size: 1.4em;
-	margin: 1em 0;
-	padding: 1em 2em;
+	font-size: 20px;
+	margin: 10px 16px;
+	padding: 10px 20px;
 	color: aqua;
 	background-color: rgba(9, 33, 13, 0.8);
     font-family: 'Voltaire', sans-serif;
@@ -155,6 +220,13 @@ body{
 	color: white;
 }
 
+@media (min-width: 600px) {
+    .resources {
+        font-size: 1.4em;
+        margin: 1em 16px;
+        padding: 1em 2em;
+    }
+}
 
 
 .toolbar{
@@ -199,9 +271,6 @@ body{
     color: #ccc;
     text-decoration: none;
 }
-
-
-
 
 select {
     background-color: rgba(0,0,150,0.5);
