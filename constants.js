@@ -97,5 +97,14 @@ export const MY_APPS = [
         "itunes": "https://apps.apple.com/us/app/furlong-cgs/id6456222314",
         "icono": "img/furlong.png",
         "fondo": "common-bckg.png"
+    },
+    {
+        "id": 12,
+        "name": "Cronologías",
+        "description": "Este aplicativo brinda 3 diferentes tipos de cronologías que ayudaran a localizarse temporalmente y evitar anacronías cuando hechos históricos son mencionados por los autores en sus disertaciones escritas o verbales.",
+        "play": "https://play.google.com/store/apps/details?id=hacaller.cronologia",
+        "itunes": "",
+        "icono": "img/cronos.png",
+        "fondo": "common-bckg.png"
     }
 ]
