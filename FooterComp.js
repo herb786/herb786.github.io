@@ -3,7 +3,7 @@ export default {
     <div class="footer" id="footer">
         <div class="box-footer">
             <div class="left-footer">
-                Copyright © 2023 Herbert Caller<br /><br />
+                Copyright © 2024 Herbert Caller<br /><br />
                 <i class="fa fa-github-alt"></i> <a href="https://github.com/herb786">Github</a><br />
                 <i class="fa fa-legal"></i> Terms of Use<br />
                 <i class="fa fa-envelope"></i> <a href="mailto:spiffy.messenger@gmail.com">Contact</a>
