@@ -21,6 +21,7 @@ export default {
     <li><a target="_blank" href="https://www.typescriptlang.org/docs/">TypeScript</a></li>
     <li><a target="_blank" href="https://springframework.guru/gang-of-four-design-patterns/">Design Patterns</a></li>
     <li><a target="_blank" href="https://www.corporate-rebels.com/blog/stop-surfing-management-fads" >Stop Surfing The Management Fads</a></li>
+    <li><a target="_blank" href="https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb" >Why doing a PhD is often a waste of time</a></li>
     </ul>
     </div>
     `
