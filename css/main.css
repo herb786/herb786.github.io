@@ -300,3 +300,7 @@ select {
     background-color: rgba(0,0,150,0.5);
     border: 0px solid #fff;
 }
+
+.footer a {
+    color: cyan;
+}
