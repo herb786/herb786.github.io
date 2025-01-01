@@ -7,6 +7,7 @@ export default {
                 <i class="fa fa-github-alt"></i> <a href="https://github.com/herb786">Github</a><br />
                 <i class="fa fa-legal"></i><a href="privacy.html">Privacy Policy</a><br />
                 <i class="fa fa-legal"></i><a href="privacy-app.html">App Privacy Policy</a><br />
+                <i class="fa fa-legal"></i><a href="sitemap.html">Sitemap</a><br />
                 <i class="fa fa-envelope"></i> <a href="mailto:spiffy.messenger@gmail.com">Contact</a>
             </div>
             <div class="right-footer">
