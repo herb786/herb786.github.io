@@ -3,8 +3,6 @@ export default {
     <div class="resources">
     <h3>You may also like</h3>
     <ul>
-    <li><a target="_blank" href="https://www.science.org/doi/10.1126/science.210.4465.33">Why Government Should Not Fund Science</a></li>
-    <li><a target="_blank" href="https://thehonestscientist.com/quantum-mechanics/">What is wrong with Quantum Mechanics?</a></li>
     <li><a target="_blank" href="https://spectrum.ieee.org/the-case-against-quantum-computing">The Case Against Quantum Computing</a></li>
     <li><a target="_blank" href="https://nap.nationalacademies.org/catalog/25196/quantum-computing-progress-and-prospects">Quantum Computing - Progress and Prospects</a></li>
     <li><a target="_blank" href="https://rdm.mpdl.mpg.de/before-research/data-quality/">Data Quality</a></li>
@@ -21,7 +19,6 @@ export default {
     <li><a target="_blank" href="https://www.typescriptlang.org/docs/">TypeScript</a></li>
     <li><a target="_blank" href="https://springframework.guru/gang-of-four-design-patterns/">Design Patterns</a></li>
     <li><a target="_blank" href="https://www.corporate-rebels.com/blog/stop-surfing-management-fads" >Stop Surfing The Management Fads</a></li>
-    <li><a target="_blank" href="https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb" >Why doing a PhD is often a waste of time</a></li>
     </ul>
     </div>
     `
