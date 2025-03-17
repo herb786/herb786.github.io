@@ -1,14 +1,5 @@
 export const MY_APPS = [
     {
-        "id": 1,
-        "name": "ArxivLens",
-        "description": "ArXivLens has multiple features to look for preprints in ArXiv. The app includes most of the subjects and categories you find in ArXiv. You have a search history to reuse your old searches and find new results. The app opens preprints in pdf format using your installed external applications. The app lets you mail your search results to your colleagues or friends.",
-        "play": "https://play.google.com/store/apps/details?id=com.hacaller.arxivlens",
-        "itunes": "https://itunes.apple.com/us/app/arxivlens/id1352839831?mt=8",
-        "icono": "img/logo.png",
-        "fondo": "arxiv-bckg.png"
-    },
-    {
         "id": 2,
         "name": "Telegraph AR",
         "description": "It provides common prosigns used in telegraphy. It also provides an alphabet with morse code and respective sounds. Customize you app theme colour. Learn about the pioneers and inventors of the telegraph. A simple AR activity to show an old classic telegraph.",
@@ -64,10 +55,10 @@ export const MY_APPS = [
     },
     {
         "id": 8,
-        "name": "Purgatory",
+        "name": "Wordhaze",
         "description": "A classic hangman game with a new theme. You can choose different topics: Geography, Painters, Writers, Animals, Sports, Flowers, Trees, Minerals, Chemistry, Actors. Three levels of difficulty. You can play with 20, 30 or 40 words.",
         "play": "https://play.google.com/store/apps/details?id=com.hacaller.theninjaexecutioner",
-        "itunes": "https://itunes.apple.com/us/app/hangman-ninja/id1449387511?ls=1&mt=8",
+        "itunes": "https://apps.apple.com/us/app/wordhaze/id1449387511",
         "icono": "img/hangman.png",
         "fondo": "common-bckg.png"
     },
@@ -82,10 +73,10 @@ export const MY_APPS = [
     },
     {
         "id": 10,
-        "name": "Caldaria",
+        "name": "Termolisis",
         "description": "A simple calculator to convert temperatures",
         "play": "https://play.google.com/store/apps/details?id=hacaller.caldaria",
-        "itunes": "https://apps.apple.com/us/app/caldaria/id6450969427",
+        "itunes": "https://apps.apple.com/us/app/termolisis/id6450969427",
         "icono": "img/caldaria.png",
         "fondo": "common-bckg.png"
     },
@@ -99,12 +90,12 @@ export const MY_APPS = [
         "fondo": "common-bckg.png"
     },
     {
-        "id": 12,
-        "name": "Cronologías",
-        "description": "Este aplicativo brinda 3 diferentes tipos de cronologías que ayudaran a localizarse temporalmente y evitar anacronías cuando hechos históricos son mencionados por los autores en sus disertaciones escritas o verbales.",
-        "play": "https://play.google.com/store/apps/details?id=hacaller.cronologia",
-        "itunes": "",
-        "icono": "img/cronos.png",
-        "fondo": "common-bckg.png"
+        "id": 1,
+        "name": "ArxivLens",
+        "description": "ArXivLens has multiple features to look for preprints in ArXiv. The app includes most of the subjects and categories you find in ArXiv. You have a search history to reuse your old searches and find new results. The app opens preprints in pdf format using your installed external applications. The app lets you mail your search results to your colleagues or friends.",
+        "play": "https://play.google.com/store/apps/details?id=com.hacaller.arxivlens",
+        "itunes": "https://itunes.apple.com/us/app/arxivlens/id1352839831?mt=8",
+        "icono": "img/logo.png",
+        "fondo": "arxiv-bckg.png"
     }
 ]

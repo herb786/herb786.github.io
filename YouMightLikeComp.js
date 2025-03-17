@@ -3,6 +3,11 @@ export default {
     <div class="resources">
     <h3>You may also like</h3>
     <ul>
+    <li><a target="_blank" href="https://secwww.jhuapl.edu/techdigest/Home/Detail?Journal=J&VolumeID=4&IssueID=3">Tactical Missile Structures and Materials Technology</a></li>
+    <li><a target="_blank" href="https://www.science.org/doi/10.1126/science.210.4465.33">Why Government Should Not Fund Science</a></li>
+    <li><a target="_blank" href="https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb">Why doing a PhD is often a waste of time</a></li>
+    <li><a target="_blank" href="https://plato.stanford.edu/entries/qt-nvd/">Quantum Theory and Mathematical Rigor</a></li>
+    <li><a target="_blank" href="https://thehonestscientist.com/quantum-mechanics/">What is wrong with Quantum Mechanics?</a></li>
     <li><a target="_blank" href="https://spectrum.ieee.org/the-case-against-quantum-computing">The Case Against Quantum Computing</a></li>
     <li><a target="_blank" href="https://nap.nationalacademies.org/catalog/25196/quantum-computing-progress-and-prospects">Quantum Computing - Progress and Prospects</a></li>
     <li><a target="_blank" href="https://rdm.mpdl.mpg.de/before-research/data-quality/">Data Quality</a></li>
@@ -23,3 +28,5 @@ export default {
     </div>
     `
 }
+
+YouMightLikeComp.js
