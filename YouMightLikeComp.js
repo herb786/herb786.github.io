@@ -3,8 +3,15 @@ export default {
     <div class="resources">
     <h3>You may also like</h3>
     <ul>
+    <li><a target="_blank" href="https://plato.stanford.edu/entries/induction-problem/">The Problem of Induction</a></li>
+    <li><a target="_blank" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1114120/">Bayesians and frequentists</a></li>
     <li><a target="_blank" href="https://secwww.jhuapl.edu/techdigest/Home/Detail?Journal=J&VolumeID=4&IssueID=3">Tactical Missile Structures and Materials Technology</a></li>
+    <li><a target="_blank" href="https://www.icmm.csic.es/en/erosion-scientific-integrity-fueled-quantitative-evaluation-metrics-directors-team-seminars">Erosion of Scientific Integrity Fueled by Quantitative Evaluation Metrics</a></li>
+    <li><a target="_blank" href="https://www.theguardian.com/commentisfree/2023/aug/09/scientific-misconduct-retraction-watch">There’s far more scientific fraud than anyone wants to admit</a></li>
     <li><a target="_blank" href="https://www.cato.org/blog/governments-should-not-fund-research">Governments Should Not Fund Research</a></li>
+    <li><a target="_blank" href="https://www.forbes.com/sites/timworstall/2015/10/24/why-we-can-stop-government-funding-of-science-it-doesnt-create-much-innovation/">Why We Can Stop Government Funding Of Science: It Doesn't Create Much Innovation</a></li>
+    <li><a target="_blank" href="https://www.science.org/content/article/landmark-research-integrity-survey-finds-questionable-practices-are-surprisingly-common">Landmark research integrity survey finds questionable practices are surprisingly common</a></li>
+    <li><a target="_blank" href="https://www.theguardian.com/science/blog/2012/nov/02/scientific-fraud-good-science?CMP=twt_fd">Scientific fraud is rife: it's time to stand up for good science</a></li>
     <li><a target="_blank" href="https://www.science.org/doi/10.1126/science.210.4465.33">Why Government Should Not Fund Science</a></li>
     <li><a target="_blank" href="https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb">Why doing a PhD is often a waste of time</a></li>
     <li><a target="_blank" href="https://plato.stanford.edu/entries/qt-nvd/">Quantum Theory and Mathematical Rigor</a></li>
