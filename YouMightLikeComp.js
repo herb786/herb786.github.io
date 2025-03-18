@@ -4,6 +4,7 @@ export default {
     <h3>You may also like</h3>
     <ul>
     <li><a target="_blank" href="https://secwww.jhuapl.edu/techdigest/Home/Detail?Journal=J&VolumeID=4&IssueID=3">Tactical Missile Structures and Materials Technology</a></li>
+    <li><a target="_blank" href="https://www.cato.org/blog/governments-should-not-fund-research">Governments Should Not Fund Research</a></li>
     <li><a target="_blank" href="https://www.science.org/doi/10.1126/science.210.4465.33">Why Government Should Not Fund Science</a></li>
     <li><a target="_blank" href="https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb">Why doing a PhD is often a waste of time</a></li>
     <li><a target="_blank" href="https://plato.stanford.edu/entries/qt-nvd/">Quantum Theory and Mathematical Rigor</a></li>
