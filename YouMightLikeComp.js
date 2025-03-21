@@ -15,13 +15,14 @@ export default {
     <li><a target="_blank" href="https://www.science.org/doi/10.1126/science.210.4465.33">Why Government Should Not Fund Science</a></li>
     <li><a target="_blank" href="https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb">Why doing a PhD is often a waste of time</a></li>
     <li><a target="_blank" href="https://plato.stanford.edu/entries/qt-nvd/">Quantum Theory and Mathematical Rigor</a></li>
-    <li><a target="_blank" href="https://thehonestscientist.com/quantum-mechanics/">What is wrong with Quantum Mechanics?</a></li>
+    <li><a target="_blank" href="https://www.discovermagazine.com/the-sciences/discover-interview-roger-penrose-says-physics-is-wrong-from-string-theory">Roger Penrose Says Physics Is Wrong, From String Theory to Quantum Mechanics</a></li>
     <li><a target="_blank" href="https://spectrum.ieee.org/the-case-against-quantum-computing">The Case Against Quantum Computing</a></li>
     <li><a target="_blank" href="https://nap.nationalacademies.org/catalog/25196/quantum-computing-progress-and-prospects">Quantum Computing - Progress and Prospects</a></li>
     <li><a target="_blank" href="https://rdm.mpdl.mpg.de/before-research/data-quality/">Data Quality</a></li>
     <li><a target="_blank" href="https://www.tensorflow.org/tutorials/keras/overfit_and_underfit">Overfit and underfit</a></li>
     <li><a target="_blank" href="https://plato.stanford.edu/entries/chinese-room/">The Chinese Room Argument</a></li>
     <li><a target="_blank" href="https://jpt.spe.org/ai-delusion-why-humans-trump-machines">The AI Delusion: Why Humans Trump Machines</a></li>
+    <li><a target="_blank" href="https://www.cslewisinstitute.org/resources-category/csli-resources/series-can-science-explain-everything/">Can Science Explain Everything?</a></li>
     <li><a target="_blank" href="http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html">The Clean Code Blog</a></li>
     <li><a target="_blank" href="http://www.slackware.com/">The Slackware Linux Project </a></li>
     <li><a target="_blank" href="https://html.spec.whatwg.org/">HTML: HyperText Markup Language</a></li>
