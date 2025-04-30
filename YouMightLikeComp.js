@@ -29,7 +29,8 @@ export default {
     <li><a target="_blank" href="https://docs.oracle.com/javase/tutorial/">The Java Tutorials</a></li>
     <li><a target="_blank" href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial</a></li>
     <li><a target="_blank" href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language">The Swift Programming Language</a></li>
-    <li><a target="_blank" href="https://262.ecma-international.org/5.1/">JavaScript</a></li>
+    <li><a target="_blank" href="https://262.ecma-international.org/5.1/">ECMAScript</a></li>
+    <li><a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript</a></li>
     <li><a target="_blank" href="https://www.typescriptlang.org/docs/">TypeScript</a></li>
     <li><a target="_blank" href="https://springframework.guru/gang-of-four-design-patterns/">Design Patterns</a></li>
     <li><a target="_blank" href="https://www.corporate-rebels.com/blog/stop-surfing-management-fads" >Stop Surfing The Management Fads</a></li>

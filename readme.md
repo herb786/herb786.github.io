@@ -4,3 +4,6 @@ http-server
 
 ### Ready to launch Python server
 python3 -m http.server
+
+### Clean ._ files
+dot_clean .
